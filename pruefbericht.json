@@ -1,0 +1,502 @@
+[
+  {
+    "sender": "Show TV (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "ATV (1080p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Kanal D (Turkiye) (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "TV8 (Turkiye) (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "TRT 1 (1440p)",
+    "aufloesung": "2560x1440",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Star TV (Turkiye) (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "NOW (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "4U TV (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "A Haber (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "A Spor SD (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "A2TV (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Aksu TV (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Al-Zahra TV Turkic (720p) [Not 24/7]",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Alanya Posta TV (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Anadolu Net TV (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Aras TV (576p) [Not 24/7]",
+    "aufloesung": "1080x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "AS TV (900p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "ATV Alanya (1080p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Bir TV (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "BRTV (Turkiye) (720p) [Geo-blocked]",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Ciftci TV (720p) [Not 24/7]",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "CNBC-e",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Deniz Postasi TV (720p) [Not 24/7]",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "DHA (720p) [Not 24/7]",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Diyanet TV (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Diyar TV (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Edessa TV (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Ekoturk (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Elsharq TV (1080p) [Not 24/7]",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "ERTV (1080p) [Geo-blocked]",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Erzurum Web TV (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "ES TV (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "ETV Kayseri (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Finans Turk TV (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Flash Haber TV",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Haber61 TV (720p) [Not 24/7]",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Haberturk TV (720p) [Not 24/7]",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Halk TV SD (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "HTSpor TV (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Ilke TV (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Kanal 12 (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Kanal 15 (720p) [Not 24/7]",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Kanal 23 (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Kanal 26 (720p) [Not 24/7]",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Kanal 3 (1080p) [Not 24/7]",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Kanal 58 (720p) [Not 24/7]",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Kanal 7 Avrupa (720p) [Not 24/7]",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Kanal Firat (720p) [Not 24/7]",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Kanal V (720p) [Not 24/7]",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Kay TV (576p) [Geo-blocked]",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Kent Turk (1080p) [Not 24/7]",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "KN Music TV",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Kocaeli TV (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Konya Olay TV (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Lalegul TV (1080p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Life TV (Turkiye) (720p) [Not 24/7]",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Luys TV (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "MaviKaradeniz TV (1080p) [Not 24/7]",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Med Muzik (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Mekameleen TV (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Meltem TV (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Minika Cocuk (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Minika Go (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "NTV (Turkiye)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Number 1 Ask (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Number 1 Damar (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Number 1 Dance (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "OlayTurk TV (720p) [Geo-blocked]",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Power Dance (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Power Love (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Power TV (Turkiye) (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "PowerTurk Akustik (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "PowerTurk Slow (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "PowerTurk Taptaze (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "PowerTurk TV (720p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Sat 7 Turk (1080p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Semerkand TV (1080p) [Not 24/7]",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Sercem TV (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Sun RTV (720p) [Not 24/7]",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Tempo TV (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "TGRT Haber (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Tivi 6 (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "TJK TV (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Ton TV (720p) [Not 24/7]",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "TRT 2 (1440p) [Geo-blocked]",
+    "aufloesung": "2560x1440",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "TRT Avaz (720p)",
+    "aufloesung": "2560x1440",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "TRT Cocuk (1440p)",
+    "aufloesung": "2560x1440",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "TRT Diyanet Cocuk (720p)",
+    "aufloesung": "2560x1440",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "TRT EBA (720p)",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "TRT Genc (1440p) [Geo-blocked]",
+    "aufloesung": "2560x1440",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "TRT Haber (720p)",
+    "aufloesung": "2560x1440",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "TRT Kurdi (720p)",
+    "aufloesung": "2560x1440",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "TRT Muzik (720p)",
+    "aufloesung": "2560x1440",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "TRT Turk (720p)",
+    "aufloesung": "2560x1440",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "TV 264 (1080p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Urfa Natik TV (720p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Van 65 TV",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Vav TV",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "YOL TV",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true
+  },
+  {
+    "sender": "Zarok TV (720p)",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true
+  }
+]

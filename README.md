@@ -1,10 +1,19 @@
 # Türkische IPTV-Sender
 
-M3U-Playlist mit 53 Streams: 51 als Full HD geprüfte Streams sowie Star TV und NOW in 720p.
+100 Sender, einschließlich 47 neu ergänzter Sender. Full HD wird bevorzugt; sonst werden geprüfte Varianten ab 720p verwendet. Die Auflösung steht beim Sendernamen.
 
-Direkte Playlist-URL:
+## Playlist-URL
+
 https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/tuerkische-sender.m3u
 
-Die Prüfungen sind Momentaufnahmen. Streamadressen können ablaufen oder regional eingeschränkt sein. Bei den ursprünglichen 49 Streams wurden die im Manifest angegebenen 1920×1080 und abrufbare Videodaten geprüft; bei Show TV und ATV zusätzlich decodierte Videobilder. Star TV und NOW wurden mit 1280×720 bestätigt.
+## Prüfung am 30.10.2026
 
-Ausgangsliste: https://github.com/iptv-org/iptv
+Für alle 100 Einträge wurde ein Videobild decodiert und dessen Auflösung gemessen. ATV wurde auf eine funktionierende 720p-Adresse umgestellt; NOW hat eine frisch abgerufene Streamadresse. Alle Einträge haben ein im Repository gespeichertes PNG-Logo.
+
+Dies ist eine Momentaufnahme am Prüfstandort, keine Garantie für dauerhafte oder weltweite Erreichbarkeit. Manche Adressen enthalten zeitlich begrenzte Sitzungsparameter. Bei adaptiven Streams kann die Wiedergabequalität variieren. Details: pruefbericht.json.
+
+## Quellen
+
+Sender und Logodaten: https://github.com/iptv-org/iptv und https://github.com/iptv-org/database
+
+Weitere Logos: offizielle Senderwebseiten sowie https://github.com/tv-logo/tv-logos (kostenlose persönliche Nutzung; Rechte an Logos verbleiben bei den jeweiligen Rechteinhabern).
