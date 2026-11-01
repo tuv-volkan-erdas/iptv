@@ -2,501 +2,607 @@
   {
     "sender": "Show TV (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "ATV (1080p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Kanal D (Turkiye) (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "TV8 (Turkiye) (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "TRT 1 (1440p)",
     "aufloesung": "2560x1440",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Star TV (Turkiye) (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "NOW (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-11-01"
   },
   {
     "sender": "4U TV (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "A Haber (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "A Spor SD (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "A2TV (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Aksu TV (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Al-Zahra TV Turkic (720p) [Not 24/7]",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Alanya Posta TV (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Anadolu Net TV (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Aras TV (576p) [Not 24/7]",
     "aufloesung": "1080x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "AS TV (900p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "ATV Alanya (1080p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Bir TV (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "BRTV (Turkiye) (720p) [Geo-blocked]",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Ciftci TV (720p) [Not 24/7]",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "CNBC-e",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Deniz Postasi TV (720p) [Not 24/7]",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "DHA (720p) [Not 24/7]",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Diyanet TV (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Diyar TV (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Edessa TV (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Ekoturk (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Elsharq TV (1080p) [Not 24/7]",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "ERTV (1080p) [Geo-blocked]",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Erzurum Web TV (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "ES TV (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "ETV Kayseri (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Finans Turk TV (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Flash Haber TV",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Haber61 TV (720p) [Not 24/7]",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Haberturk TV (720p) [Not 24/7]",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Halk TV SD (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "HTSpor TV (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Ilke TV (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Kanal 12 (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Kanal 15 (720p) [Not 24/7]",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Kanal 23 (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Kanal 26 (720p) [Not 24/7]",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Kanal 3 (1080p) [Not 24/7]",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Kanal 58 (720p) [Not 24/7]",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Kanal 7 Avrupa (720p) [Not 24/7]",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Kanal Firat (720p) [Not 24/7]",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Kanal V (720p) [Not 24/7]",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Kay TV (576p) [Geo-blocked]",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Kent Turk (1080p) [Not 24/7]",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "KN Music TV",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Kocaeli TV (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Konya Olay TV (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Lalegul TV (1080p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Life TV (Turkiye) (720p) [Not 24/7]",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Luys TV (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "MaviKaradeniz TV (1080p) [Not 24/7]",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Med Muzik (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Mekameleen TV (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Meltem TV (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Minika Cocuk (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Minika Go (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "NTV (Turkiye)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Number 1 Ask (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Number 1 Damar (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Number 1 Dance (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "OlayTurk TV (720p) [Geo-blocked]",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Power Dance (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Power Love (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Power TV (Turkiye) (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "PowerTurk Akustik (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "PowerTurk Slow (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "PowerTurk Taptaze (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "PowerTurk TV (720p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Sat 7 Turk (1080p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Semerkand TV (1080p) [Not 24/7]",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Sercem TV (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Sun RTV (720p) [Not 24/7]",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Tempo TV (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "TGRT Haber (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Tivi 6 (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "TJK TV (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Ton TV (720p) [Not 24/7]",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "TRT 2 (1440p) [Geo-blocked]",
     "aufloesung": "2560x1440",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "TRT Avaz (720p)",
     "aufloesung": "2560x1440",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "TRT Cocuk (1440p)",
     "aufloesung": "2560x1440",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "TRT Diyanet Cocuk (720p)",
     "aufloesung": "2560x1440",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "TRT EBA (720p)",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "TRT Genc (1440p) [Geo-blocked]",
     "aufloesung": "2560x1440",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "TRT Haber (720p)",
     "aufloesung": "2560x1440",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "TRT Kurdi (720p)",
     "aufloesung": "2560x1440",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "TRT Muzik (720p)",
     "aufloesung": "2560x1440",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "TRT Turk (720p)",
     "aufloesung": "2560x1440",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "TV 264 (1080p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Urfa Natik TV (720p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Van 65 TV",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Vav TV",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "YOL TV",
     "aufloesung": "1280x720",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
   },
   {
     "sender": "Zarok TV (720p)",
     "aufloesung": "1920x1080",
-    "videobild_decodiert": true
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-10-30"
+  },
+  {
+    "sender": "Beyaz TV",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-11-01"
   }
 ]

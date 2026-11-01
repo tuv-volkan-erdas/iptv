@@ -12,7 +12,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV (Turkiye)" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/StarTV.tr.png" group-title="Große Sender",Star TV (Turkiye) (720p)
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
 #EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/NOW.tr.png" group-title="Große Sender",NOW (720p)
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=65fa8997-2b2f-4529-85ea-84318628a608&st=wTyG525-dZsDHFoUNyp-ZQ&e=1793396307
+https://nowtv.daioncdn.net/nowtv/nowtv_720p.m3u8?ex=1793585981&st=qhA-QAu3Ld2P4PX96dWelg&sid=8vty7pnqc3oq&app=65fa8997-2b2f-4529-85ea-84318628a608&ce=3
 #EXTINF:-1 tvg-id="4UTV.tr" tvg-name="4U TV" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/4UTV.tr.png" group-title="Türkische Sender",4U TV (720p)
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/AHaber.tr.png" group-title="Türkische Sender",A Haber (1080p)
@@ -199,3 +199,5 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.
 https://live.yoltv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.tr" tvg-name="Zarok TV" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/ZarokTV.tr.png" group-title="Türkische Sender",Zarok TV (1080p)
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/BeyazTV.tr.png" group-title="Große Sender",Beyaz TV (1080p)
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
