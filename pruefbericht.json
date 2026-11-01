@@ -604,5 +604,11 @@
     "aufloesung": "1920x1080",
     "videobild_decodiert": true,
     "pruefdatum": "2026-11-01"
+  },
+  {
+    "sender": "Fenerbahçe TV",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-11-01"
   }
 ]
