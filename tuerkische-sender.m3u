@@ -25,6 +25,14 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-name="Kanal 7 Avrupa" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/Kanal7Avrupa.tr.png" group-title="01 | Große & überregionale Sender",Kanal 7 Avrupa (1080p)
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-name="teve2" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/Teve2.tr.png" group-title="01 | Große & überregionale Sender",teve2 (1080p)
+https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=8vu0j0dxec16&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3
+#EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/EuroD.tr.png" group-title="01 | Große & überregionale Sender",Euro D (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+#EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/TV4.tr.png" group-title="01 | Große & überregionale Sender",TV4 (1080p)
+https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/Kanal7.tr.png" group-title="01 | Große & überregionale Sender",Kanal 7 (1080p)
+https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=8vu0nbv80eaa&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/AHaber.tr.png" group-title="02 | Nachrichten & Wirtschaft",A Haber (1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 #EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/CNBCe.tr.png" group-title="02 | Nachrichten & Wirtschaft",CNBC-e (1080p)
@@ -47,6 +55,12 @@ https://canli.tgrthaber.com/tgrt.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-name="Haberturk TV" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/HaberturkTV.tr.png" group-title="02 | Nachrichten & Wirtschaft",Haberturk TV (1080p)
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/24TV.tr.png" group-title="02 | Nachrichten & Wirtschaft",24 TV (1080p)
+https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/UlkeTV.tr.png" group-title="02 | Nachrichten & Wirtschaft",Ülke TV (720p)
+https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/BloombergHT.tr.png" group-title="02 | Nachrichten & Wirtschaft",Bloomberg HT (720p)
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?ex=10800&st=haVtDd4AuC9nPeqy_Jvksw&sid=8vu0r8apfs7h&app=2d316f2d-f42e-40e3-b3b3-a6c795c93da4&ce=2
 #EXTINF:-1 tvg-id="KNMusicTV.az" tvg-name="KN Music TV" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/KNMusicTV.az.png" group-title="03 | Musik",KN Music TV (1080p)
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MedMuzik.tr" tvg-name="Med Muzik" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/MedMuzik.tr.png" group-title="03 | Musik",Med Muzik (1080p)
@@ -73,6 +87,10 @@ https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Muzik" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/TRTMuzik.tr.png" group-title="03 | Musik",TRT Muzik (1440p)
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-name="Dream Türk" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/DreamTurk.tr.png" group-title="03 | Musik",Dream Türk (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1TV.tr" tvg-name="Number 1 TV" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/Number1TV.tr.png" group-title="03 | Musik",Number 1 TV (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-name="Minika Cocuk" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/MinikaCocuk.tr.png" group-title="04 | Kinder & Jugend",Minika Cocuk (720p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-name="Minika Go" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/MinikaGo.tr.png" group-title="04 | Kinder & Jugend",Minika Go (720p)
@@ -93,6 +111,8 @@ https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 https://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-name="Fenerbahçe TV" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/FBTV.tr.png" group-title="05 | Sport",Fenerbahçe TV (720p)
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b1696000_sltur.m3u8
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8,5" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/TV85.tr.png" group-title="05 | Sport",TV8,5 (1080p)
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="AksuTV.tr" tvg-name="Aksu TV" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/AksuTV.tr.png" group-title="06 | Regional & Lokal",Aksu TV (720p)
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlanyaPostaTV.tr" tvg-name="Alanya Posta TV" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/AlanyaPostaTV.tr.png" group-title="06 | Regional & Lokal",Alanya Posta TV (1080p)
@@ -203,3 +223,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d91
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TonTV.tr" tvg-name="Ton TV" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/TonTV.tr.png" group-title="10 | Nicht durchgehend (Not 24/7)",Ton TV (1080p)
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/360.tr.png" group-title="10 | Nicht durchgehend (Not 24/7)",360 (1080p)
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global" tvg-logo="https://raw.githubusercontent.com/tuv-volkan-erdas/iptv/main/logos/HaberGlobal.tr.png" group-title="10 | Nicht durchgehend (Not 24/7)",Haber Global (720p)
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8

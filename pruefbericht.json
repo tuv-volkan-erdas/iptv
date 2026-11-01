@@ -610,5 +610,77 @@
     "aufloesung": "1280x720",
     "videobild_decodiert": true,
     "pruefdatum": "2026-11-01"
+  },
+  {
+    "sender": "teve2",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-11-01"
+  },
+  {
+    "sender": "24 TV",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-11-01"
+  },
+  {
+    "sender": "360",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-11-01"
+  },
+  {
+    "sender": "Dream Türk",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-11-01"
+  },
+  {
+    "sender": "Euro D",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-11-01"
+  },
+  {
+    "sender": "Number 1 TV",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-11-01"
+  },
+  {
+    "sender": "TV4",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-11-01"
+  },
+  {
+    "sender": "Kanal 7",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-11-01"
+  },
+  {
+    "sender": "Ülke TV",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-11-01"
+  },
+  {
+    "sender": "TV8,5",
+    "aufloesung": "1920x1080",
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-11-01"
+  },
+  {
+    "sender": "Bloomberg HT",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-11-01"
+  },
+  {
+    "sender": "Haber Global",
+    "aufloesung": "1280x720",
+    "videobild_decodiert": true,
+    "pruefdatum": "2026-11-01"
   }
 ]
