@@ -21,3 +21,18 @@ Weitere Logos: offizielle Senderwebseiten sowie https://github.com/tv-logo/tv-lo
 ## Aktualisierung am 01.11.2026
 
 NOW wurde erneut mit 1280×720 geprüft und seine abgelaufene Streamadresse ersetzt. Beyaz TV wurde mit 1920×1080 geprüft und mit Logo ergänzt. Beide Prüfungen enthalten die Decodierung eines Videobildes. Die übrigen Sender wurden bei dieser Aktualisierung nicht erneut geprüft. NOW verwendet zeitlich begrenzte Streamadressen und kann erneute Aktualisierungen benötigen.
+
+## Sendergruppen
+
+- 01 | Große & überregionale Sender: 12 Sender
+- 02 | Nachrichten & Wirtschaft: 10 Sender
+- 03 | Musik: 13 Sender
+- 04 | Kinder & Jugend: 6 Sender
+- 05 | Sport: 3 Sender
+- 06 | Regional & Lokal: 21 Sender
+- 07 | Kultur & Bildung: 3 Sender
+- 08 | Religion: 6 Sender
+- 09 | Weitere Sender: 5 Sender
+- 10 | Nicht durchgehend (Not 24/7): 22 Sender
+
+Die Gruppe „Nicht durchgehend (Not 24/7)“ übernimmt die Kennzeichnung aus der iptv-org-Quellliste. Diese betrifft die Verfügbarkeit des gelisteten Streams und bedeutet nicht zwingend, dass der Fernsehsender selbst Sendepausen hat. Diese Zuordnung hat Vorrang vor Themen- und Regionalgruppen. Die übrigen Gruppen wurden anhand der Senderkategorien und redaktionell zugeordnet.
